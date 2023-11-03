@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTTClient", "TTTClient\TTTClient.csproj", "{FD648A54-F61F-47E9-81EA-C4AF99666054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTTServer", "TTTServer\TTTServer.csproj", "{7D33B9EA-EFB5-4210-AFC2-CB4A4FB4A7B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD648A54-F61F-47E9-81EA-C4AF99666054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD648A54-F61F-47E9-81EA-C4AF99666054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD648A54-F61F-47E9-81EA-C4AF99666054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD648A54-F61F-47E9-81EA-C4AF99666054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D33B9EA-EFB5-4210-AFC2-CB4A4FB4A7B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D33B9EA-EFB5-4210-AFC2-CB4A4FB4A7B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D33B9EA-EFB5-4210-AFC2-CB4A4FB4A7B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D33B9EA-EFB5-4210-AFC2-CB4A4FB4A7B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40671415-ACB0-4978-A3FE-C6BF6CEE2445}
+	EndGlobalSection
+EndGlobal

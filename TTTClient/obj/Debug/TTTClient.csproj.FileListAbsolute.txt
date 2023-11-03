@@ -1,0 +1,8 @@
+C:\Users\Alex\source\repos\TicTacToe\TTTClient\bin\Debug\TTTClient.exe.config
+C:\Users\Alex\source\repos\TicTacToe\TTTClient\bin\Debug\TTTClient.exe
+C:\Users\Alex\source\repos\TicTacToe\TTTClient\bin\Debug\TTTClient.pdb
+C:\Users\Alex\source\repos\TicTacToe\TTTClient\obj\Debug\TTTClient.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\TicTacToe\TTTClient\obj\Debug\TTTClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\source\repos\TicTacToe\TTTClient\obj\Debug\TTTClient.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\TicTacToe\TTTClient\obj\Debug\TTTClient.exe
+C:\Users\Alex\source\repos\TicTacToe\TTTClient\obj\Debug\TTTClient.pdb
